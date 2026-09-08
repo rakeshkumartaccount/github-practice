@@ -1,0 +1,2 @@
+I am learning DevOps.
+I am practicing Git and GitHub.
