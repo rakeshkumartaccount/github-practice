@@ -1,3 +1,1 @@
-This change was made on GitHub.
-
-This change was made on my feature branch.
+This change was made on master.
